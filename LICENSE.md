@@ -1,4 +1,4 @@
-# 
+# Personalizado 7-Zip scripts para Mac OS | Gratuito 7-Zip scripts para PC Windows. Com remocao de arquivos temporarios e integracao de menu de contexto — otimizado para máximo desempenho em cada plataforma.
 
 
 
